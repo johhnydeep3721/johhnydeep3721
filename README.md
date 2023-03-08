@@ -1,4 +1,4 @@
-![logo](https://github.com/johhnydeep3721/johhnydeep3721/blob/main/8bfd01c18be1b5059bc0d7770d9dabf1.gif)
+![logo](https://github.com/johhnydeep3721/johhnydeep3721/blob/main/8bfd01c18be1b5059bc0d7770d9dabf1.gif) 
 <h1 align="center">Hi 👋, I'm Dat</h1>
 <h3 align="center">I am a sophomore of university in Ha Noi, My major is cyber security</h3>
 <img align="right" alt="coding" width="50%" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/bui dat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bui dat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/datkirrin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bui dat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
